@@ -1,0 +1,2 @@
+Samuel Gomes
+-Full stack
