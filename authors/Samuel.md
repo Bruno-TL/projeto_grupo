@@ -6,5 +6,5 @@
 rasgar-se, remendar-se
 ---
 
-[site/curriculo](Smz1n.github.io)
+[site/curriculo](https://smz1n.github.io/)
 [instagram](https://www.instagram.com/samuelz.gv/)
