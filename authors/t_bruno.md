@@ -1,4 +1,6 @@
 ## Thiago Bruno 
 - Fullstack Developer
-
-[Instagram] (https://instagram.com/t.bruno__)
+> Caucaia , CE
+---
+- [Instagram](https://instagram.com/t.bruno__)
+- [Site/Curriculo](https://bruno-tl.github.io)
