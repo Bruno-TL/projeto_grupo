@@ -3,3 +3,6 @@
 
 [Site/Curriculo](https://cerealpuppet.github.io/)
 
+----
+resiliencia sempre...
+----
