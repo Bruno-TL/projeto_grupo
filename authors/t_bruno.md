@@ -3,4 +3,4 @@
 > Caucaia , CE
 ---
 - [Instagram](https://instagram.com/t.bruno__)
-- [Site/Curriculo](https://brunot-tl.github.io)
+- [Site/Curriculo](https://bruno-tl.github.io)
