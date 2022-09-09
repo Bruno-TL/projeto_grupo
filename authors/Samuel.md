@@ -1,5 +1,5 @@
-Samuel Gomes
--Full stack
+##Samuel Gomes
+-**Fullstack**
 >Fortaleza, Ceará, Brasil
 
 ---
