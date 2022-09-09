@@ -1,6 +1,6 @@
 Samuel Gomes
 -Full stack
->>Fortaleza, Ceará, Brasil
+>Fortaleza, Ceará, Brasil
 
 ---
 rasgar-se, remendar-se
